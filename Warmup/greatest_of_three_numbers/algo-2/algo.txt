@@ -1,0 +1,6 @@
+step-1 : START
+step-2 : READ three numbers a,b,c
+step-3 : IF a is greater than or equal to b and a is greater than c , Then PRINT Max is a
+step-4 : ELSE IF b is greater than a and b is greater than c , Then PRINT Max is b 
+step-5 : ELSE PRINT Max is c
+step-6 : STOP

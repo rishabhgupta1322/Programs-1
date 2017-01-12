@@ -1,0 +1,9 @@
+Enter the size of Array: 5
+Enter the Elements of Array 
+1
+55
+0
+65
+43
+Second Min : 1
+Second Max : 55

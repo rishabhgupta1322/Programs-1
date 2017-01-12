@@ -1,0 +1,13 @@
+Assumumption : 
+We have a structure of node type having two fields , info field of type int and next field of node type pointer.
+We Already have a link-list. We have to only count the no of elements in link-list.
+We have node type pointer start which have starting address of link-list.
+
+step-1 : START
+step-2 : Declare node type pointer temp
+step-3 : Set temp to start
+step-4 : Set count to 0
+step-5 : Repeat Step 6-7 untill temp Not Equals NULL
+step-6 :  Set count equals count+1
+step-7 :  Set temp equals to next field of temp
+step-8 : PRINT count

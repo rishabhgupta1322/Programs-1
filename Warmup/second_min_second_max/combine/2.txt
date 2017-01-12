@@ -1,0 +1,7 @@
+Enter the size of Array: 3
+Enter the Elements of Array 
+8
+9
+3
+Second Min : 8
+Second Max : 8

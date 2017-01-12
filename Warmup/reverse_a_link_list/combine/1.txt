@@ -1,0 +1,11 @@
+Enter the Total Nodes Entered :5
+Enter Elements
+1
+2
+6
+7
+8
+Link-List : 
+8 7 6 2 1 
+Link-List After Reverse : 
+1 2 6 7 8 

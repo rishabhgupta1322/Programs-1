@@ -1,0 +1,7 @@
+step-1 : START
+step-2 : READ three numbers a,b,c
+step-3 : IF a is greater than or equal to b and a is greater than c , Then SET Max equals a
+step-4 : ELSE IF b is greater than a and b is greater than c , Then SET Max equals b 
+step-5 : ELSE SET Max equals c
+step-6 : PRINT Max
+step-6 : STOP

@@ -1,0 +1,30 @@
+step-1  : START
+step-2  : Declare a Structure node having two fields info of int type and next pointer of node type.
+step-3  : Declare varaible start,temp,old,curr,next of type node pointer , Initail Set to NULL. 
+step-4  : Read Size of link-list, Say N
+step-5  : Set i equals 1
+step-6  : Repeat Step 7-11 until i less than equals N
+step-7  :  Dynamic Allocate memory and assing to temp 
+step-8  :  READ info field of temp 
+step-9  :  Set next field of temp to start 
+step-10 :  Set start to temp 
+step-11 :  Set i equals i + 1
+step-12 : PRINT Link-list
+step-13 : Set temp to start
+step-13 : Repeat Step 14,15 untill temp Not Equals NULL 
+step-14 :  PRINT info field of temp
+step-15 :  Set temp to next field of temp 
+step-16 : PRINT Reverse Link-list 
+step-17 : Set curr to start
+step-18 : Repeat Step 19-22 untill curr Not Equals NULL
+step-19 :  Set next to next field of curr
+step-20 :  Set next field of curr to old
+step-21 :  Set old to curr
+step-22 :  Set curr to next
+step-23 : Set start equals old
+step-24 : Set temp to start 
+step-25 : Repeat Step 26,27 untill temp Not Equals NULL 
+step-26 :  PRINT info field of temp
+step-27 :  Set temp to next field of temp 
+step-28 : STOP
+

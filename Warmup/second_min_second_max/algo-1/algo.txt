@@ -1,0 +1,9 @@
+step-1 : START
+step-2 : READ the size of an Array Say, n
+step-3 : SET i equals 1
+step-4 : Repeat the steps 5,6 until i equals n
+step-5 : READ ith index of Array , arr[i] 
+step-6 : SET i equals i+1
+step-7 : Sort the Array Elements in Ascending Order By Using Any Technique
+step-8 : PRINT Second Max is arr[n-1] and Second Min is arr[2] 
+step-9 : STOP

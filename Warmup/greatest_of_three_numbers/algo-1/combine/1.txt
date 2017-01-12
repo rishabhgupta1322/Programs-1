@@ -1,0 +1,5 @@
+Enter the Three Numbers :
+1
+2
+3
+Max is :3

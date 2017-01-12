@@ -1,0 +1,5 @@
+Enter the Three Numbers :
+44 
+4
+5
+Max is :5
