@@ -1,0 +1,2 @@
+aabcdeeff
+Common Occurence : 1
