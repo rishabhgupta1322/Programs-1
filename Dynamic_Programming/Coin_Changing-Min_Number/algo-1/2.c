@@ -9,7 +9,7 @@ int main(){
 	int count=0;
 	// Input
 	// N Sum
-	// N...i
+	// A[0]...A[N]
 	scanf("%d%d",&N,&Sum);
 	
 	// Dynamic Memory Allocation for coin,A,B

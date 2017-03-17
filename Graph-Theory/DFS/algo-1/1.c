@@ -5,7 +5,7 @@
 #include<malloc.h>
 #include<stdbool.h>
 // Macros
-#define MAX 6
+#define MAX 100
 // Structure for vertex
 struct Vertex{
 	char label;
