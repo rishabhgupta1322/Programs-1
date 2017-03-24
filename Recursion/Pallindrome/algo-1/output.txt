@@ -1,3 +1,3 @@
-Script started on Friday 24 March 2017 10:05:31 AM IST
-abbbca
-Not Pallindrome
+Script started on Friday 24 March 2017 10:20:44 AM IST
+bbbbbaaaaabbbbb
+Pallindrome
